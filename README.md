@@ -26,6 +26,6 @@ GitHub repositories link to the Project: https://lnkd.in/d7cw8M2X
 
 ## Some helpful documents while making this project : 
 
-Build an AI web app by using Python and Flask
-Use Python, Flask, and Azure Cognitive Services to build a web app that incorporates AI
+Build an AI web app by using Python and Flask <br>
+Use Python, Flask, and Azure Cognitive Services to build a web app that incorporates AI <br>
 https://learn.microsoft.com/en-us/training/modules/python-flask-build-ai-web-app/
